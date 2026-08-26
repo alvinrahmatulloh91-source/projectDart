@@ -6,7 +6,7 @@ num tambah(num a, num b) {
 }
 //pengurang
 num kurang(num a, num b){
-  return a + b;
+  return a - b;
 }
 //  Perkalian
 num kali(num a, num b) {
